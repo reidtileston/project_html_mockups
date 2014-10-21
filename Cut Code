@@ -1,0 +1,11 @@
+</a>
+          <a href="third_screen.html" class="btn btn-danger">
+            <i class="fa fa-trash-o"></i>
+            Delete
+          </a>
+          <a href="first_screen.html" class="btn btn-primary">
+            <i class="fa fa-external-link"></i> <!-- Example of how to use Font Awesome icons; often, we use them as text within buttons -->
+            Show
+          </a>
+ <div class="btn-group"> <!-- Wrapping a set of <a> tags with btn classes in a <div> of class btn-group joins them together into a bar -->
+class="btn btn-warning"
